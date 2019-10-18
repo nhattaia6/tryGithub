@@ -16,5 +16,16 @@ namespace projectXam
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUsername.Text.Equals("user") && txtPass.Text.Equals("pass"))
+            {
+                this.Hide();
+                fMenu menu = new fMenu();
+                menu.ShowDialog();
+                this.Show();
+            }
+        }
     }
 }
