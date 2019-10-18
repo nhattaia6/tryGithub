@@ -16,5 +16,21 @@ namespace projectXam
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(textBox1.Text);
+        }
     }
 }
