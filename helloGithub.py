@@ -1,1 +1,2 @@
-print(hello git hub first day!)
+print("hello git hub first day!")
+print("Vuong day")
