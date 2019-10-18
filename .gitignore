@@ -1,4 +1,4 @@
-projectXam/.vs
-projectXam/projectXam.v11
-projectXam/projectXam.v12
+projectXam/.vs/*
+projectXam/projectXam.v11.suo
+projectXam/projectXam.v12.suo
 projectXam/projectXam/obj/*
