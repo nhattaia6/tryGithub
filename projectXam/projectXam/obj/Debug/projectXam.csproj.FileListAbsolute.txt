@@ -1,0 +1,10 @@
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe.config
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\bin\Debug\projectXam.pdb
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csprojResolveAssemblyReference.cache
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.fLogin.resources
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.fMenu.resources
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.Properties.Resources.resources
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csproj.GenerateResource.Cache
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.exe
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.pdb

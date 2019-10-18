@@ -24,7 +24,9 @@ namespace projectXam
                 this.Hide();
                 fMenu menu = new fMenu();
                 menu.ShowDialog();
+                txtPass.Clear();
                 this.Show();
+                
             }
         }
     }
