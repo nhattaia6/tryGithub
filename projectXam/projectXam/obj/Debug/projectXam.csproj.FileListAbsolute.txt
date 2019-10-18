@@ -8,3 +8,13 @@ C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.P
 C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csproj.GenerateResource.Cache
 C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.exe
 C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.pdb
+E:\gitHub\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe.config
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.exe
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.pdb
+E:\gitHub\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe
+E:\gitHub\tryGithub\projectXam\projectXam\bin\Debug\projectXam.pdb
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csprojResolveAssemblyReference.cache
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.fLogin.resources
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.fMenu.resources
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.Properties.Resources.resources
+E:\gitHub\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csproj.GenerateResource.Cache
