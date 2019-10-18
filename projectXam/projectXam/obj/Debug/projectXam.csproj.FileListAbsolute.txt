@@ -1,1 +1,5 @@
 E:\gitHub\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe.config
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\bin\Debug\projectXam.exe.config
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csprojResolveAssemblyReference.cache
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.Properties.Resources.resources
+C:\Users\zumianax\Desktop\tryGithub\projectXam\projectXam\obj\Debug\projectXam.csproj.GenerateResource.Cache
